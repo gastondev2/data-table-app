@@ -12,7 +12,7 @@ operations and then we could make it usable for ANY data origin.
 
 ```bash
 
-Unzip the received file 
+git clone https://github.com/gastondev2/data-table-app.git
 cd data-table-app
 npm run i
 npm run start
