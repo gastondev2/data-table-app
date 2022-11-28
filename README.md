@@ -38,5 +38,5 @@ Improvements:
 - Add an edit feature
 - More tests
 - Create aliases for avoiding relative paths.
-- Upload to GitHUb as regular project.
+- Upload to GitHUb as regular project
   
